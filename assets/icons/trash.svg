@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.5 28.46">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: transparent;
+            }
+
+            .cls-2,
+            .cls-3 {
+                fill: #fff;
+            }
+
+            .cls-3 {
+                fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <g id="Capa_2" data-name="Capa 2">
+        <g id="Capa_1-2" data-name="Capa 1">
+            <rect class="cls-1" width="35.5" height="28.46" transform="translate(35.5 28.46) rotate(180)" />
+            <rect class="cls-2" x="11.49" y="10.94" width="12" height="12" />
+            <polygon class="cls-3"
+                points="18.49 7.94 18.49 6.44 16.49 6.44 16.49 7.94 11.49 7.94 11.49 9.94 23.49 9.94 23.49 7.94 18.49 7.94" />
+        </g>
+    </g>
+</svg>

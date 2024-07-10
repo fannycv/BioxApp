@@ -1,0 +1,78 @@
+$font-size-root: 14px;
+$heading-font-family: "Red Rose", "Roboto", Times, serif !default;
+
+.text-h1,
+.text-h2,
+.text-h3,
+.text-h4,
+.text-h5,
+.text-h6 {
+  font-family: $heading-font-family !important;
+  font-weight: 600;
+}
+
+.heading-font {
+  font-family: $heading-font-family !important;
+}
+
+// $primary: #ff94c7;
+$secondary: rgb(3, 64, 104);
+// $accent: #ffd96c;
+
+$dark: #363a4a;
+$dark-page: #50566e;
+
+// $positive: #21ba45;
+// $negative: #ff4a5f;
+// $info: #31ccec;
+// $warning: #f2c037;
+
+$shadow-color: rgba(200, 203, 206, 0.5);
+
+.dark .bg-surface {
+  background: #283023;
+}
+
+th {
+  font-weight: 700 !important;
+}
+
+// tr,
+// td,
+// button {
+//   font-family: Roboto;
+// }
+
+p,
+th,
+td,
+small,
+b,
+.q-table__bottom-item,
+.q-table__container,
+.q-field__append,
+.q-item {
+  // color: $secondary;
+}
+
+.q-table__container {
+  .q-icon {
+    // color: $secondary !important;
+  }
+
+  .q-table__top {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.q-table__bottom-item {
+  font-size: 10px !important;
+}
+
+$separator-color: rgba($secondary, 0.2) !default;
+$item-base-color: $secondary;
+$input-text-color: $secondary;
+$input-label-color: $secondary;
+$input-autofill-color: $secondary;
+$table-box-shadow: none;

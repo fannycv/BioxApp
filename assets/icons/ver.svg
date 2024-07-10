@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.17 17.17">
+    <defs>
+    </defs>
+    <g id="Capa_2" data-name="Capa 2">
+        <g id="Capa_1-2" data-name="Capa 1">
+            <circle fill="#034068" cx="8.58" cy="8.58" r="8.58" />
+            <path fill="#fff" fill-rule="evenodd"
+                d="M8.58,5.36A6.43,6.43,0,0,0,3,8.58a6.44,6.44,0,0,0,11.15,0A6.44,6.44,0,0,0,8.58,5.36Zm0,5.37A2.15,2.15,0,1,0,6.44,8.58,2.15,2.15,0,0,0,8.58,10.73Z" />
+        </g>
+    </g>
+</svg>
